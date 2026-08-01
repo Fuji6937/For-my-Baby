@@ -127,3 +127,4 @@ function typeLetter(){
     }
 
 }
+alert("script loaded");
